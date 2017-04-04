@@ -1,0 +1,61 @@
+.RoundPanel
+{
+	border:1px solid #0f2132;
+	padding:5px 5px; 
+	background:#ffffff;
+	border-radius:5px;
+}
+
+.ErrorPanel
+{
+	border: 1px solid #FEB6B1;
+	padding:5px 5px; 
+	background:#FFFF99;
+	color:Red;
+}
+
+.rounded-corner-div
+{
+	border:2px solid #a1a1a1;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+	background:#dddddd;
+	border-radius:15px;
+}
+
+.rounded-corner-div2{
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    margin: 0 auto 20px auto;
+    background-color: #446bb3;
+     border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    color: #446bb3;
+    padding:10px;
+}
+
+.NoJsCookieAlert
+{
+	border: 1px solid #FF0000;
+	color: #FF0000;
+	padding: 0.5em;
+	text-align: center;
+	margin: auto;
+	width: 850px;
+}
+
+#NoJsCookie_Warning
+{
+	text-align: center;
+	background:#FFFECF;
+	/*position:absolute;
+	left:0;
+	top:0;*/
+	padding:10px 10px 10px 0px;
+	width:95%;
+	border-bottom: 1px solid #E8E7C3;
+}
